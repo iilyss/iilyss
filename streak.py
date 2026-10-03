@@ -92,7 +92,7 @@ def render(cur, best, total, today, week, days):
 <text x="88" y="150" class="f" font-size="44" fill="{num_color}" text-anchor="middle">{cur}</text>
 <text x="88" y="176" class="f" font-size="14" fill="{num_color}" text-anchor="middle">DAY STREAK</text>
 <text x="178" y="48" class="f" font-size="20" fill="#3C3C3C">{msg}</text>
-<text x="178" y="80" class="f" font-size="14" fill="#777">Longest: {best} days  ·  {total} contributions</text>
+<text x="178" y="80" class="f" font-size="14" fill="#777">Longest: {best} day{'s' if best != 1 else ''}  ·  {total} contribution{'s' if total != 1 else ''}</text>
 {''.join(dots)}
 </svg>'''
 
