@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="200" viewBox="0 0 520 200">
+<style>
+  .f{font-family:'Nunito','Segoe UI',Helvetica,Arial,sans-serif;font-weight:800}
+  .day{font:800 13px 'Nunito','Segoe UI',Helvetica,Arial,sans-serif;text-anchor:middle}
+</style>
+<rect x="1.5" y="1.5" width="517" height="197" rx="18" fill="#fff" stroke="#E5E5E5" stroke-width="3"/>
+<g transform="translate(88,70)"><g><animateTransform attributeName="transform" type="scale" values="1;1.06;1" dur="1.6s" repeatCount="indefinite" additive="sum"/>
+  <path d="M0,-34 C10,-22 22,-12 22,4 C22,20 12,30 0,30 C-12,30 -22,20 -22,4 C-22,-6 -16,-12 -12,-18 C-10,-10 -6,-6 -2,-6 C-6,-18 -4,-26 0,-34 Z" fill="#FF9600"/><path d="M0,-2 C6,6 10,12 10,18 C10,25 5,29 0,29 C-5,29 -10,25 -10,18 C-10,12 -6,8 0,-2 Z" fill="#FFC800"/></g></g>
+<text x="88" y="150" class="f" font-size="44" fill="#FF9600" text-anchor="middle">39</text>
+<text x="88" y="176" class="f" font-size="14" fill="#FF9600" text-anchor="middle">DAY STREAK</text>
+<text x="178" y="48" class="f" font-size="20" fill="#3C3C3C">Keep the flame alive!</text>
+<text x="178" y="80" class="f" font-size="14" fill="#777">Longest: 274 days  ·  1090 contributions</text>
+<text x="200" y="122" class="day" fill="#AFAFAF">M</text><circle cx="200" cy="146" r="15" fill="#FF9600"/><path d="M194,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="244" y="122" class="day" fill="#AFAFAF">T</text><circle cx="244" cy="146" r="15" fill="#FF9600"/><path d="M238,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="288" y="122" class="day" fill="#AFAFAF">W</text><circle cx="288" cy="146" r="15" fill="#FF9600"/><path d="M282,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="332" y="122" class="day" fill="#AFAFAF">T</text><circle cx="332" cy="146" r="15" fill="#FF9600"/><path d="M326,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="376" y="122" class="day" fill="#AFAFAF">F</text><circle cx="376" cy="146" r="15" fill="#FF9600"/><path d="M370,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="420" y="122" class="day" fill="#AFAFAF">S</text><circle cx="420" cy="146" r="15" fill="#FF9600"/><path d="M414,146 l4,5 l9,-10" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="464" y="122" class="day" fill="#FF9600">S</text><circle cx="464" cy="146" r="14" fill="none" stroke="#FF9600" stroke-width="3" stroke-dasharray="4 4"/>
+</svg>
