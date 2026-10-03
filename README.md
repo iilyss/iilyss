@@ -2,14 +2,14 @@
   <img src="./assets/header.svg" alt="Ilyasa — Product Designer" width="100%" />
 </p>
 
-<!-- TODO: add your links, then remove this comment
+<!-- TODO: add your links, then remove this comment -->
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-FF9600?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dribbble.com/YOUR-DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-58CC02?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <!-- <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-FF9600?style=for-the-badge&logo=behance&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/ilyasaj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ <!-- <a href="https://dribbble.com/YOUR-DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> -->
+ <!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-58CC02?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 </p>
--->
+
 
 ---
 
@@ -29,7 +29,7 @@ I'm a Product Designer who enjoys turning complex problems into simple, usable e
 
 | Discover | Define | Design | Deliver |
 |:--|:--|:--|:--|
-| User interviews, JTBD, competitive benchmarking | Friction mapping, HMW, assumption mapping | User flows, IA, wireframes → hi-fi UI | Design system components, dev handoff, usability testing |
+| User interviews, JTBD, competitive benchmarking | Friction mapping, HMW, assumption mapping | User flows, IA, wireframes → Hi-Fi UI | Design system components, dev handoff, usability testing |
 
 ---
 
@@ -42,7 +42,6 @@ I'm a Product Designer who enjoys turning complex problems into simple, usable e
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
