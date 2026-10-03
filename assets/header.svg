@@ -35,7 +35,7 @@
 </g>
 <text x="44" y="70" class="r" font-size="18" fill="#AFAFAF">Hi there, I'm</text>
 <text x="44" y="122" class="f" font-size="52" fill="#3C3C3C">Ilyasa<tspan fill="#FF9600">.</tspan></text>
-<text x="44" y="160" class="f" font-size="22" fill="#1CB0F6">Product Designer · UI/UX<tspan class="cur" fill="#1CB0F6">|</tspan></text>
+<text x="44" y="160" class="f" font-size="22" fill="#1CB0F6">Product Designer<tspan class="cur" fill="#1CB0F6">|</tspan></text>
 <text x="44" y="196" class="r" font-size="15" fill="#777">Turning complex problems into</text>
 <text x="44" y="218" class="r" font-size="15" fill="#777">simple, human-centered experiences.</text>
 </svg>
