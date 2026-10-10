@@ -15,7 +15,7 @@
 
 ### 👋 About me
 
-I'm a Product Designer who enjoys turning complex problems into simple, usable experiences. I work across the full design process, from discovery and problem framing to UI design and developer handoff, in fast-paced agile teams.
+Product Designer who enjoys turning complex problems into simple, usable experiences. I work across the full design process, from discovery and problem framing to UI design and developer handoff, in fast-paced agile teams.
 
 - 🎯 Focused on clarity, usability, and real user needs
 - 🧩 Comfortable building with design systems
